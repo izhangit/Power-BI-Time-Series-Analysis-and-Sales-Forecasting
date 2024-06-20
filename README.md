@@ -1,6 +1,11 @@
 # Power BI Sales Forecasting and Insights Project
 
-## What is Power BI?
+
+![image](https://github.com/izhangit/Super-Store-Sales-Forecasting-and-Insights-Project/assets/108143680/de28f746-4f6a-4f90-b86f-f143979d2bd6)
+
+
+
+## What is Power BI (Business Intelligence)?
 Power BI is a business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It connects to a wide range of data sources and allows for extensive data transformation and modeling.
 
 ## Features of Power BI:
