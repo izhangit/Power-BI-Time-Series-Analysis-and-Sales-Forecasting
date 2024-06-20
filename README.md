@@ -41,16 +41,16 @@ This project aims to contribute to the success of a business by utilizing data a
 
 
 # Project Description
-#### Dashboard Creation
+#### -- Dashboard Creation
 The first step involved identifying the key performance indicators (KPIs) essential for understanding sales performance. An intuitive dashboard was designed using Power BI to visualize these KPIs. The dashboard includes interactive elements such as filters and drill-down capabilities, enabling users to explore the data at different levels of detail.
 
-#### Data Analysis
+#### -- Data Analysis
 Data analysis was conducted to provide insights into sales trends and patterns. Various charts and visualizations were created to help business entities understand the effectiveness of their sales strategies. The visualizations helped in identifying which products were performing well and which needed attention.
 
-#### Sales Forecasting
+#### -- Sales Forecasting
 Using historical sales data, time series analysis techniques were applied to forecast sales for the next 15 days. These forecasts help the business plan inventory, manage stock levels, and prepare for upcoming demand, thereby ensuring efficient operations.
 
-#### Actionable Insights and Recommendations
+#### -- Actionable Insights and Recommendations
 The end goal was to provide actionable insights and recommendations based on the analysis. These insights help the business make strategic decisions that support growth, improve efficiency, and enhance customer satisfaction.
 
 ### DAX (Data Analysis Expressions)
