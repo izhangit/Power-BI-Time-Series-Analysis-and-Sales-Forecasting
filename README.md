@@ -40,7 +40,7 @@ This project aims to contribute to the success of a business by utilizing data a
 - Support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
 
-### Project Description
+# Project Description
 #### Dashboard Creation
 The first step involved identifying the key performance indicators (KPIs) essential for understanding sales performance. An intuitive dashboard was designed using Power BI to visualize these KPIs. The dashboard includes interactive elements such as filters and drill-down capabilities, enabling users to explore the data at different levels of detail.
 
